@@ -1,0 +1,1 @@
+Normal speech recognition made using flutter and Alan tools. It can talk and answer you questions when asked. The startup phrase is "hey Alan". It can do some very few comands such as opening phone app and messagig app that is on your device
